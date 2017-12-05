@@ -13,3 +13,5 @@ after delete net_branch
 modify this to test merge failed
 
 modify on net_branch branch
+
+modify this place to test rebase function
