@@ -1,0 +1,10 @@
+diff --git a/README.md b/README.md
+index 97193c1..4109d8b 100644
+--- a/README.md
++++ b/README.md
+@@ -15,3 +15,5 @@ modify this to test merge failed
+ modify on net_branch branch
+ 
+ modify this place to test rebase function
++
++add line in patch
